@@ -674,9 +674,9 @@ img.svg{
 	background-repeat: no-repeat;
 	background-size: cover;
 }
-.albano_tm_list_wrap > ul.total > li .inner_list .absolute_image.first{background-image: url(../img/portfolio/1.jpg);}
-.albano_tm_list_wrap > ul.total > li .inner_list .absolute_image.second{background-image: url(../img/portfolio/2.jpg);}
-.albano_tm_list_wrap > ul.total > li .inner_list .absolute_image.third{background-image: url(../img/portfolio/3.jpg);}
+.albano_tm_list_wrap > ul.total > li .inner_list .absolute_image.first{background-image: url(../img/slider/2.jpg);}
+.albano_tm_list_wrap > ul.total > li .inner_list .absolute_image.second{background-image: url(../img/slider/1.jpg);}
+.albano_tm_list_wrap > ul.total > li .inner_list .absolute_image.third{background-image: url(../img/portfolio/8.jpg);}
 .albano_tm_list_wrap > ul.total > li .inner_list:hover .overlay_text{top: 0px;}
 .albano_tm_list_wrap .overlay_text .title_holder{margin-bottom: 30px;}
 .albano_tm_list_wrap .overlay_text .title_holder span{
