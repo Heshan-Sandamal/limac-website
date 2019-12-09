@@ -657,6 +657,16 @@ function albano_tm_magnific_popup(){
 			removalDelay: 300,
 			mainClass: 'mfp-fade'
 		});
+
+		jQuery('.meegalawa-temple').magnificPopup({
+			delegate: 'a.zoom', // the selector for gallery item
+			type: 'image',
+			gallery: {
+				enabled:true
+			},
+			removalDelay: 300,
+			mainClass: 'mfp-fade'
+		});
 		
 	});
 
